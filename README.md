@@ -1,26 +1,34 @@
-<div align="center">
+### 🍒 Miran Lee
+---
+ <a href="http://mmirann.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="mailto:miran7803@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nvmrn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-[![Website](https://img.shields.io/badge/Website-mmirann.github.io-success?style=round&logo=safari&color=ff69b4)](https://mmirann.github.io/)&nbsp;&nbsp;
+<img src="http://commitcombo.com/theme?user=mmirann&theme=Rainbow&v=1"/>
+
+
+ 
 <!--
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmmirann&count_bg=%23C83D9B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![mmirann's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmirann&hide=stars&count_private=true&theme=radical)
 -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmirann&theme=monokai)
-</div>
+  
 
+### 💪Languages and Tools
+---
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=red"/>
 
-<!--
-**mmirann/mmirann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>  
+<p>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</p>
+  </div>
+  
