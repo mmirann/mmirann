@@ -3,7 +3,7 @@
 <a href="mailto:miran7803@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/nvmrn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<img src="http://commitcombo.com/theme?user=mmirann&theme=Rainbow&v=1"/> 
+<img src="http://commitcombo.com/get?user=mmirann&theme=Rainbow&v=1"/>
  
 <!--
 ![mmirann's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmirann&hide=stars&count_private=true&theme=radical)
